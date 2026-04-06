@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a freshman at the University of Michigan studying Computer Science. I’m interested in startups, entrepreneurship, and building useful products.
+Freshman @ the University of Michigan studying Computer Science. I’m interested in startups, entrepreneurship, and building useful products.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jainam_patelll)
