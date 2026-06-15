@@ -1,5 +1,5 @@
 # 💫 About Me:
-Freshman @ the University of Michigan studying Computer Science. I’m interested in startups, entrepreneurship, and building useful products.
+FDE Fellow @ Jump Capital | Incoming Sophomore @ the University of Michigan studying Computer Science. I’m interested in startups, entrepreneurship, and building useful products.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jainam_patelll)
